@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proof CoffeeApp</string>
+    <string name="company_name">PROOF Coffee Roasters</string>
+    <string name="hours_weekdays">Weekdays 6:00am-7pm</string>
+    <string name="hours_weekend">Weekends 9am-5pm</string>
+    <string name="address">335 E 27th St, New York, NY</string>
+</resources>
